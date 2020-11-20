@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "318248436802",
+    "firebase_url": "https://subwaybooking-36134.firebaseio.com",
+    "project_id": "subwaybooking-36134",
+    "storage_bucket": "subwaybooking-36134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318248436802:android:76a637714266709fae19db",
+        "android_client_info": {
+          "package_name": "com.example.subwaybooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318248436802-991gtd268dg77qj9hsht22joolh57hp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subwaybooking",
+            "certificate_hash": "e1bface603a129bf796bb97bf62d328096f9be06"
+          }
+        },
+        {
+          "client_id": "318248436802-j9dfc12qp3agkimvjtfallkks5iunvo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVatd58eIe-sAo0HY5BHzJlTQa8dLN1LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318248436802-j9dfc12qp3agkimvjtfallkks5iunvo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

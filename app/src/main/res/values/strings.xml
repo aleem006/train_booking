@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Subway Booking</string>
+    <string name="searchSeat">Search Seat</string>
+    <string name="TrainTiming">Train Timing</string>
+    <string name="departureTime">Departure Time</string>
+    <string name="arrivalTime">Arrival Time</string>
+    <string name="departureCity">Departure City</string>
+    <string name="arrivalCity">Arrival City</string>
+    <string name="selectDate">Select Date</string>
+    <string name="selectCity">Select Your City</string>
+    <string name="myBooking">My Bookings</string>
+    <string name="bookTicket">Book Ticket</string>
+    <string name="warning">Warning</string>
+    <string name="doneCapital">DONE</string>
+    <string name="sureToDelete">Are you sure to cancel this booking?</string>
+    <string name="editTicket">Edit Ticket</string>
+</resources>
